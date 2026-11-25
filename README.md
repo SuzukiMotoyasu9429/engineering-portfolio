@@ -20,6 +20,7 @@ first-arrival analysis.
 
 | Project | What the sample demonstrates | Preview |
 |---|---|---|
+| Seismic Explorer | Draw the 3D geographics from 3 sensor data | [Image] (Seismic Explorer.png))
 | Railway Checker | Detecting rail-height and track-gauge variations in synthetic sensor data | [Video](Railway_Checker_Video_Demo.mp4) · [Gauge simulation](Railway_Checker_Gauge_Simulation.png) |
 | PLC Submersible Pump | Automatic pump start at high water level and stop at low water level | [Video](PLC_Submersible_Pump_Demo.mp4) · [Ladder logic](PLC_Pump_Ladder_Logic.png) |
 | Eight-Channel Data Acquisition Board | A conceptual PCB layout, signal chain, and modeled anti-aliasing filter response | [PCB and simulation](PCB_Data_Acquisition_Portfolio.png) |
